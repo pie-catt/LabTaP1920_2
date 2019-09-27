@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LabTaP1920_2
+namespace MyAttribute
 {
     public class Class1
     {
